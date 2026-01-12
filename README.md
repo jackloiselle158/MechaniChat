@@ -12,3 +12,6 @@ LLM models (huggingface.co/unsloth/Llama-3.2-3B-Instruct-GGUF:latest, nomic-embe
 langchain
 streamlit
 requests
+
+
+BEFORE USING THE MAIN PROJECT: Run the db.py script to set up the vector databse. Depending on how powerful your computer is, this may take some time.
