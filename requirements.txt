@@ -1,0 +1,16 @@
+chromadb
+fastapi==0.115.12
+httpx
+langchain-core==0.3.79
+langchain-ollama==0.3.8
+ollama
+pillow
+pydantic>=2
+pytest
+pytest-asyncio
+python-dotenv
+python-multipart
+requests
+streamlit
+tqdm
+uvicorn[standard]

@@ -1,0 +1,1 @@
+"""MechaniChat backend package."""
